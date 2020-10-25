@@ -19,22 +19,14 @@
    display: none;
 }
 
-#wall .parent #tag-6{
+#wall .parent  div #tag-6{
    display: none;
 }
 
-.parent #tag-7{
+#wall .parent div > div  #tag-7 .slick{
    display: none;
 }
 
-
-/* Tag 6 -> 224 */
-
-body div#wall div.parent div:last-child div#tag-6 { /*225*/
-  display: none;
-}
-
-/* Tag 7 -> 224 */
 
 body div#wall div.parent div > div#tag-7.slick { /*225*/
   display: none;
