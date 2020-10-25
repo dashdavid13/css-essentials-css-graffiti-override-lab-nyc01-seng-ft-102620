@@ -7,11 +7,11 @@
    display: none;
 }
 
-#wall #tag-3{
+div#wall div#tag-3{
    display: none;
 }
 
-.parent #tag-4{
+#wall .parent #tag-4{
    display: none;
 }
 
@@ -25,11 +25,6 @@
 
 .parent #tag-7{
    display: none;
-}
-
-
-#wall .tag-1 { /* 110 */
-  display: none;
 }
 
 /* Tag 2 -> 200 */
