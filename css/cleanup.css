@@ -19,7 +19,7 @@
    display: none;
 }
 
-.parent #tag-6{
+#wall .parent #tag-6{
    display: none;
 }
 
@@ -27,28 +27,6 @@
    display: none;
 }
 
-/* Tag 2 -> 200 */
-body #wall #tag-2 { /* 201 */
-  display: none;
-}
-
-/* Tag 3 -> 211 */
-
-div#wall div#tag-3.slick, .wicked{ /*222*/
-  display: none;
-}
-
-/* Tag 4 -> 200 */
-
-#wall .parent #tag-4 { /* 210 */
-  display: none;
-}
-
-/* Tag 5 -> 221 */
-
-div#wall div.parent div#tag-5.slick { /*223*/
-  display: none;
-}
 
 /* Tag 6 -> 224 */
 
